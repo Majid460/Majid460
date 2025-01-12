@@ -57,10 +57,10 @@ I am committed to continuous learning and love exploring emerging technologies. 
 ---
 
 ### 💻 Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-Purple?logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Blue?logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Red?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Yellow?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-Purple?logo=kotlin&logoColor=blue)
+![Dart](https://img.shields.io/badge/Dart-Blue?logo=dart&logoColor=black)
+![Java](https://img.shields.io/badge/Java-Red?logo=java&logoColor=purple)
+![Python](https://img.shields.io/badge/Python-Yellow?logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Yellow?logo=javascript&logoColor=white)
 
 ---
@@ -79,7 +79,7 @@ I am committed to continuous learning and love exploring emerging technologies. 
 
 ## 📊 GitHub Stats
 
-![Majid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Majid460&show_icons=true&theme=radical)  
+![Majid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Majid460&show_icons=true&count_private=true&include_all_commits=true&theme=radical) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majid460&layout=compact&theme=radical)
 
 ---
