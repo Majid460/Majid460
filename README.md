@@ -4,7 +4,7 @@
 📍 From building user-friendly mobile applications to deploying scalable cloud solutions, I’m passionate about creating impactful software that makes life easier.  
 
 🌐 **GitHub**: [Majid460](https://github.com/Majid460)  
-
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@majidshahbaz75)  
 ---
 
 ## 👨‍💻 About Me
@@ -57,11 +57,11 @@ I am committed to continuous learning and love exploring emerging technologies. 
 ---
 
 ### 💻 Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-Purple?logo=kotlin&logoColor=blue)
-![Dart](https://img.shields.io/badge/Dart-Blue?logo=dart&logoColor=black)
-![Java](https://img.shields.io/badge/Java-Red?logo=java&logoColor=purple)
-![Python](https://img.shields.io/badge/Python-Yellow?logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Yellow?logo=javascript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-FF6C37?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
