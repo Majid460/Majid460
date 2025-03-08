@@ -88,5 +88,5 @@ I am committed to continuous learning and love exploring emerging technologies. 
 
 Feel free to reach out to me on:
 - **GitHub**: [Majid460](https://github.com/Majid460)
-- **LinkedIn**: [Majid Shahbaz](www.linkedin.com/in/majid-shahbaz-2042b317b)
+- **LinkedIn**: [Majid Shahbaz](https://www.linkedin.com/in/majid-shahbaz-2042b317b/)
 
