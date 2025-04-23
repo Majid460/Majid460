@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Majid Shahbaz
 
 ### 🚀 Software Engineer | Mobile App Developer | Cloud Enthusiast  
-📍 From building user-friendly mobile applications to deploying scalable cloud solutions, I’m passionate about creating impactful software that makes life easier.  
+📍 From building user-friendly mobile applications to deploying scalable cloud solutions, I’m passionate about creating impactful applications that makes life easier.  
 
 🌐 **GitHub**: [Majid460](https://github.com/Majid460)  
 [![Medium](https://img.shields.io/badge/Read%20my%20articles%20on-Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@majidshahbaz75) 
