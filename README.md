@@ -72,8 +72,9 @@ I am committed to continuous learning and love exploring emerging technologies. 
 2. **Cross-Platform Apps**: Delivered seamless mobile experiences using **Flutter** and **React Native**.
 
 ### ☁️ Cloud Projects
-1. **E-Commerce Backend on AWS**: Built a scalable backend for an e-commerce platform using **AWS DynamoDB**, **S3**, and **Lambda**.  
-2. **CI/CD Pipelines**: Automated deployments for microservices using **GitHub Actions** and **Jenkins**.
+1. **Project Tracker Backend on AWS**: Built a scalable backend for this project using **AWS DynamoDB**, **S3**, and **Lambda**.
+2. **Funds Management System on AWS**: Built a scalable backend for this project using **AWS DynamoDB**, **S3**, **SNS** , **EC2**, **Cloud Watch** and **Lambda**. 
+4. **CI/CD Pipelines**: Automated deployments for microservices using **GitHub Actions** and **Jenkins**.
 
 ---
 
