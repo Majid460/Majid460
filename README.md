@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a0f1e,100:1a0533&height=220&section=header&text=Majid%20Shahbaz&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer%20%7C%20Mobile%20%7C%20Cloud%20%7C%20Rust&descAlignY=60&descColor=00C8F0&animation=fadeIn" />
 
 <!-- Typing SVG — single line cycling, no cut-off -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00C8F0&center=true&vCenter=true&width=680&height=52&lines=Android%20%7C%20Jetpack%20Compose%20%7C%20CMP;Rust%20Systems%20%7C%20AES-256%20%7C%20CLI%20%2B%20TUI;AWS%20Cloud%20%7C%20Lambda%20%7C%20DynamoDB;NovaHer%20AI%20%7C%20Womens%20Health%20Intelligence;Blockchain%20Identity%20%7C%20CryptoID;100K%2B%20Downloads%20on%20Play%20Store" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00C8F0&center=true&vCenter=true&width=680&height=52&lines=Android%20%7C%20Jetpack%20Compose%20%7C%20CMP;Rust%20Systems%20%7C%20AES-256%20%7C%20CLI%20%2B%20TUI;AWS%20Cloud%20%7C%20Lambda%20%7C%20DynamoDB;NovaHer%20AI%20%7C%20Womens%20Health%20Intelligence;Blockchain%20Identity%20%7C%20CryptoID;500K%2B%20Downloads%20on%20Play%20Store" alt="Typing SVG" />
 
 <br/><br/>
 
