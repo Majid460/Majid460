@@ -225,10 +225,8 @@ The app that started it all — a wallpaper app with over **500,000 downloads** 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Majid460&show_icons=true&theme=tokyonight&border_color=00C8F0&bg_color=0D1117&title_color=00C8F0&icon_color=8B5CF6&text_color=FFFFFF&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majid460&layout=compact&theme=tokyonight&border_color=00C8F0&bg_color=0D1117&title_color=00C8F0&text_color=FFFFFF" width="49%" />
-
+<img src="https://github-readme-stats-tau-livid-27.vercel.app/api?username=Majid460&show_icons=true&theme=tokyonight&border_color=00C8F0&bg_color=0D1117&title_color=00C8F0&icon_color=8B5CF6&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&border_radius=12" width="49%" />
+<img src="https://github-readme-stats-tau-livid-27.vercel.app/api/top-langs/?username=Majid460&layout=compact&theme=tokyonight&border_color=00C8F0&bg_color=0D1117&title_color=00C8F0&text_color=FFFFFF&langs_count=8&border_radius=12" width="49%" />
 </div>
 
 <div align="center">
