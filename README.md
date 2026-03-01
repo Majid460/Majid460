@@ -80,7 +80,7 @@ I am committed to continuous learning and love exploring emerging technologies. 
 
 ## 📊 GitHub Stats
 
-![Majid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
+![Majid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Majid460&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majid460&layout=compact&theme=radical)
 
 ---
