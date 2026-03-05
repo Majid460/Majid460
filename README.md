@@ -9,6 +9,7 @@
 <br/><br/>
 
 <!-- Social Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C8F0?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-bay-56.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Majid460-0D1117?style=for-the-badge&logo=github&logoColor=00C8F0&labelColor=0D1117)](https://github.com/Majid460)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Majid%20Shahbaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-shahbaz-2042b317b/)
 [![Medium](https://img.shields.io/badge/Medium-Blog-00C8F0?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@majidshahbaz75)
@@ -242,9 +243,11 @@ The app that started it all — a wallpaper app with over **500,000 downloads** 
 [![GitHub](https://img.shields.io/badge/GitHub-Majid460-0D1117?style=for-the-badge&logo=github&logoColor=00C8F0&labelColor=0D1117)](https://github.com/Majid460)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-shahbaz-2042b317b/)
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-00C8F0?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@majidshahbaz75)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00C8F0?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-two-bay-56.vercel.app/)
 
 <br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0533,40:0a0f1e,100:0D1117&height=120&section=footer" />
-
 </div>
+
+
+
